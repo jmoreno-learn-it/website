@@ -1,5 +1,5 @@
 h2 {
-    float: right;
+    float: center;
 }
 
 .history{
@@ -7,4 +7,26 @@ h2 {
 }
 .storytime{
     text-align: center;
+}
+
+body{
+    background: url(bulb.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 40px auto;
+    max-width: 1000px;
+}
+
+div{
+    display: inline-block;
+    width: 320px;
+    vertical-align: top;
+}
+
+.hobby{
+    text-align: center;
+    display: inline-block;
+  
+  width: 100%;
 }
